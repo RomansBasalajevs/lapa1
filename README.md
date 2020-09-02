@@ -1,1 +1,13 @@
-Majaslapa prieksmeta timeklu tehnologijas 1 uzdevums
+# Romans Basalajevs
+
+# Programmatūras prasības:
+
+
+# Programmas instalizācija:
+
+
+# Progammas pielietojums:
+
+
+# Izmantotā literatūra:
+www.estudijas.rvt.lv macību materiāli.
